@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaiser
 - 👀 Web Desing
-- 🌱 Node.js
+- 🌱 Node.js and Python
 - 📫 abdullahisik3306@gmail.com
 
 <!---
