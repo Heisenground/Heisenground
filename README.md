@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaiser
+- 👋 Hi, I’m @Rick Sanchez
 - 👀 Web Desing
 - 🌱 Node.js and Python
 - 📫 abdullahisik3306@gmail.com
