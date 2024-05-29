@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rick Sanchez
+- 👋 Hi, I’m @Rick 
 - 👀 Web Desing
 - 🌱 Node.js and Python
 - 📫 abdullahisik3306@gmail.com
